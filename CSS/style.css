@@ -1,0 +1,42 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.all {
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+}
+
+
+
+.display {
+    width: 290px;
+    height: 60px;
+    text-align: right;
+    margin-bottom: 10px;
+    font-size: 20px;
+    padding: 30px;
+    border: none;
+    background-color: #e9ecef;
+}
+
+
+.btn button {
+    width: 60px;
+    height: 45px;
+    margin: 5px;
+    font-size: 15px;
+    cursor: pointer;
+    border: none;
+}
+
+.clear {
+    color: red;
+}
+
+.sp {
+    background-color: #fcc419;
+}
+
+
